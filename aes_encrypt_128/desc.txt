@@ -1,0 +1,1 @@
+Design a 128-bit AES encryption core module with inputs: 1-bit clock clk, reset rst, start signal start, 128-bit plaintext p, 128-bit key k, and outputs: 128-bit ciphertext c and completion signal done. module_name is "aes_encrypt_128". input pin: clk, rst, start, p[127:0], k[127:0]. output pin: c[127:0], done.

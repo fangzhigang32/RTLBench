@@ -1,0 +1,1 @@
+Design a 1:8 demultiplexer module with 1-bit input data d, 3-bit select signal sel, and 8-bit output signal y. module_name is "demux_1to8". input pin: d, sel[2:0]. output pin: y[7:0].

@@ -1,0 +1,1 @@
+Design an asynchronous reset synchronous release module with a 1-bit clock input clk, an asynchronous reset input async_rst, and a 1-bit synchronous reset output sync_rst. module_name is "async_reset_sync_release". input pin: clk, async_rst. output pin: sync_rst.

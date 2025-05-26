@@ -1,0 +1,1 @@
+Design a 16-bit signed Booth multiplier module with two 16-bit signed inputs a and b, and a 32-bit product output p. module_name is "booth_multiplier_16bit". input pin: a[15:0], b[15:0]. output pin: p[31:0].
