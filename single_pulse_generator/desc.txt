@@ -1,0 +1,1 @@
+Design a single pulse generator module with input pins: 1-bit clock clk, reset rst, 1-bit trigger signal trigger, and output pin: pulse. module_name is "single_pulse_generator". input pin: clk, rst, trigger. output pin: pulse.
