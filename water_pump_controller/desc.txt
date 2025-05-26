@@ -1,0 +1,1 @@
+Design a water pump controller module with inputs: 1-bit clock clk, reset rst, 1-bit water level sensor water_level, 1-bit manual switch manual, and output: 1-bit pump switch pump. The pump is activated when water_level=0 or manual=1. module_name is "water_pump_controller". input pin: clk, rst, water_level, manual. output pin: pump.
