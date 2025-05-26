@@ -1,0 +1,1 @@
+Design a 32-bit OR gate module with two 32-bit input signals a and b, and a 32-bit output signal y. module_name is "or_gate_32bit". input pin: a[31:0], b[31:0]. output pin: y[31:0].

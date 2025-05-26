@@ -1,0 +1,1 @@
+Design a 12-bit Hamming code decoder module with input 12-bit Hamming code c, output 8-bit data d, and 1-bit error flag err. module_name is "hamming_decoder_12bit". input pin: c[11:0]. output pin: d[7:0], err.

@@ -1,0 +1,1 @@
+Design a heart rate monitor module with inputs: 1-bit clock clk, reset rst, 1-bit heartbeat pulse pulse, and outputs: 8-bit heart rate value bpm, 1-bit abnormal signal alert. Calculate the number of heartbeats per minute (bpm), and trigger alert when bpm<40 or bpm>120. module_name is "heart_rate_monitor". input pin: clk, rst, pulse. output pin: bpm[7:0], alert.

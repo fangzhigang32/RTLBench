@@ -1,0 +1,1 @@
+Design a half adder module with two 1-bit input signals a and b, and output 1-bit sum s and carry c. module_name is "half_adder". input pin: a, b. output pin: s, c.

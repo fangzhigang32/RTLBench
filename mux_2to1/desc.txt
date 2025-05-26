@@ -1,0 +1,1 @@
+Design a 2:1 multiplexer module with two 1-bit data inputs d0 and d1, a 1-bit select signal sel, and a 1-bit output y. module_name is "mux_2to1". input pin: d0, d1, sel. output pin: y.
