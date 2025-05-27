@@ -52,7 +52,7 @@ def parse_verilator_structured(log_text):
 def llm_evaluate_verilog_code(verilog_code):
 
     system_template = "You are a chip design expert with twenty years of work experience."
-    user_template = "As a code reviewer, please rate the quality of the Verilog code provided to you. < Verilog code>:\n\n{verilog_code}\n\nEvaluation indicators include readability, comment completeness, semantic consistency of code and comments, etc. Give an integer score between 0 and 10. Output only an integer score, no additional interpretation."
+    user_template = "As a code judge, please rate the quality of the Verilog code provided to you. < Verilog code>:\n\n{verilog_code}\n\nEvaluation indicators include readability, comment completeness, semantic consistency of code and comments, etc. Give an integer score between 0 and 10. Output only an integer score, no additional interpretation."
 
     prompt_template = ChatPromptTemplate.from_messages([
         # ("system", system_template),
