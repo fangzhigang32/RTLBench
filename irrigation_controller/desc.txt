@@ -1,1 +1,0 @@
-Design an automatic irrigation controller module with inputs: 1-bit clock clk, reset rst, 1-bit soil moisture sensor moisture, 1-bit manual switch manual, and output: 1-bit irrigation switch irrigate. Irrigation starts for 10s when moisture=0 or manual=1. module_name is "irrigation_controller". input pin: clk, rst, moisture, manual. output pin: irrigate.
