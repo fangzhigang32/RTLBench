@@ -1,1 +1,0 @@
-Design a 4-bit serial-in serial-out (SISO) shift register module with a 1-bit clock input clk, reset rst, data input si, and a 1-bit output so. module_name is "siso_shift_reg_4bit". input pin: clk, rst, si. output pin: so.
