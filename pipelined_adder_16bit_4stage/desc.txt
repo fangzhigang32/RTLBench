@@ -1,1 +1,0 @@
-Design a 4-stage pipelined 16-bit adder module with inputs: 1-bit clock clk, reset rst, two 16-bit signals a and b, and output: 16-bit sum s. module_name is "pipelined_adder_16bit_4stage". input pin: clk, rst, a[15:0], b[15:0]. output pin: s[15:0].
