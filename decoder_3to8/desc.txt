@@ -1,1 +1,0 @@
-Design a 3:8 decoder module with a 3-bit input signal d and an 8-bit output signal y. module_name is "decoder_3to8". input pin: d[2:0]. output pin: y[7:0].
