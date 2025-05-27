@@ -1,1 +1,0 @@
-Design a 2-divider module with 1-bit clock input clk, reset rst, and 1-bit divided clock output clk_out. module_name is "div2". input pin: clk, rst. output pin: clk_out.
