@@ -2,31 +2,27 @@
 
 ![Evaluation Flow](./LintEval_Overview.png)
 
-## Repository Overview
+---
 
-This repository contains two main folders:
+## 🗂️ Repository Overview
 
-- **[`AutoEval`](./AutoEval)**: Code for automated evaluation.
-- **[`RTLBench-Benchmark`](./RTLBench-Benchmark)**: A benchmark suite for evaluating code generation capabilities of large language models (LLMs).
+This repository consists of two main components:
 
-## AutoEval Folder Structure
+- [`AutoEval`](./AutoEval)  
+  Automated evaluation framework for analyzing RTL code.
+  
+- [`RTLBench-Benchmark`](./RTLBench-Benchmark)  
+  A comprehensive benchmark suite for assessing code generation capabilities of large language models (LLMs) in RTL design.
 
-The `AutoEval` folder includes two subdirectories:
+---
 
-1. **[`EvalExistBenchmark`](./AutoEval/EvalExistBenchmark)**: Evaluates the quality of reference code in existing benchmarks.
-   - To run: Execute `python verilatorLint.py`.
+## 📁 AutoEval Folder Structure
 
-2. **[`RTLBench`](./AutoEval/RTLBench)**: Uses the RTLBench-Benchmark to evaluate LLM-generated code.
-   - Configuration: Set `API_KEY` and `BaseURL` in [`RTLBench/api.txt`](./AutoEval/RTLBench/api.txt).
-   - To run: Execute `python main.py`.
+The `AutoEval` directory contains two key submodules:
 
-## Python Version
+### 1. [`EvalExistBenchmark`](./AutoEval/EvalExistBenchmark)
+Evaluate the quality of reference RTL code in existing benchmarks.
 
-This project requires **Python 3.13.2**.
-
-## Dependency Installation
-
-A [`requirements.txt`](./AutoEval/requirements.txt) file is provided in the `AutoEval` directory. Install dependencies using:
-
-```bash
-pip install -r requirements.txt
+- **Run Command**:
+  ```bash
+  python verilatorLint.py
