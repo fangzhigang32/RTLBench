@@ -1,1 +1,0 @@
-Design a temperature sensor interface module with inputs: 1-bit clock clk, reset rst, 1-bit sensor data sensor_data, and output: 8-bit temperature value temp. sensor_data is serial input, with 8-bit data representing 0-255°C. module_name is "temp_sensor_interface". input pin: clk, rst, sensor_data. output pin: temp[7:0].
