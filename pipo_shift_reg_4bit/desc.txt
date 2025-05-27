@@ -1,1 +1,0 @@
-Design a 4-bit parallel-in parallel-out (PIPO) shift register module with inputs: 1-bit clock clk, reset rst, load signal load, 4-bit parallel data d, and output: 4-bit q. module_name is "pipo_shift_reg_4bit". input pin: clk, rst, load, d[3:0]. output pin: q[3:0].
