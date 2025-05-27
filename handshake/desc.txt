@@ -1,1 +1,0 @@
-Design a basic handshake module with inputs: 1-bit clock clk, reset rst, request req, and 8-bit data din; outputs: 1-bit acknowledgment ack and 8-bit data dout. module_name is "handshake". input pin: clk, rst, req, din[7:0]. output pin: ack, dout[7:0].
