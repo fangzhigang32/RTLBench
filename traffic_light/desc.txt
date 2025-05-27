@@ -1,1 +1,0 @@
-Design a traffic light controller module with a 1-bit clock input clk, reset input rst, and 3-bit outputs red, yellow, green. module_name is "traffic_light". input pin: clk, rst. output pin: red, yellow, green.
