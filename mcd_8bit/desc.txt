@@ -1,1 +1,0 @@
-Design a module to calculate the greatest common divisor of two numbers, with inputs: 1-bit clock clk, reset rst, 8-bit unsigned numbers a and b, and output: greatest common divisor mcd_out. module_name is "mcd_8bit". input pin: a[7:0], b[7:0]. output pin: mcd_out[15:0].
