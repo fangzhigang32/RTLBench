@@ -92,7 +92,7 @@ def save_violations_to_excel(violations, excel_path):
 
 
 # Processing Verilog designs, only performing Verilator lint checks
-def process_designs(verilog_dir="./VGen", result_dir="./result"):
+def process_designs(verilog_dir=Benchmark_Path, result_dir="./result"):
 
     # Make sure the results directory exists
     result_dir = Path(result_dir).resolve()
@@ -100,7 +100,7 @@ def process_designs(verilog_dir="./VGen", result_dir="./result"):
     
     # Get all Verilog files
     verilog_dir = Path(verilog_dir).resolve()
-    verilog_files = [f for f in os.listdir(verilog_dir) if f.endswith('.v')]
+    verilog_files = [f for f in os.listdir(verilog_dir) if f.endswith(('.v', '.sv'))]
     total_files = len(verilog_files)
     print(f"[Info] Total Verilog Files: {total_files}", flush=True)
     print("-" * 80, flush=True)
@@ -149,7 +149,7 @@ def process_designs(verilog_dir="./VGen", result_dir="./result"):
 def summary_result(verilog_dir=Benchmark_Path, report_file="./result/summary_report.txt"):
    
     verilog_dir = Path(verilog_dir).resolve()
-    verilog_files = [f for f in os.listdir(verilog_dir) if f.endswith('.v')]
+    verilog_files = [f for f in os.listdir(verilog_dir) if f.endswith(('.v', '.sv'))]
     total_files = len(verilog_files)
     report_file = Path(report_file).resolve()
     result_dir = report_file.parent
