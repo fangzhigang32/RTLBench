@@ -1,1 +1,0 @@
-Design an 8-point pipelined FFT module with inputs: 1-bit clock clk, reset rst, 8-bit real part input x_re, imaginary part x_im, and outputs: 8-bit real part y_re, imaginary part y_im. module_name is "pipeline_fft_8pt". input pin: clk, rst, x_re[7:0], x_im[7:0]. output pin: y_re[7:0], y_im[7:0].
