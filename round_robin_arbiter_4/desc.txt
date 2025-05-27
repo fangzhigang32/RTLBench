@@ -1,1 +1,0 @@
-Design a 4-input round-robin arbiter module with inputs: 1-bit clock clk, reset rst, 4-bit request req, and outputs: 4-bit grant gnt. module_name is "round_robin_arbiter_4". input pin: clk, rst, req[3:0]. output pin: gnt[3:0].
