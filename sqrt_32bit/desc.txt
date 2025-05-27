@@ -1,1 +1,0 @@
-Design a 32-bit unsigned integer square root module with a 32-bit input signal d and a 16-bit square root output s. module_name is "sqrt_32bit". input pin: d[31:0]. output pin: s[15:0].
