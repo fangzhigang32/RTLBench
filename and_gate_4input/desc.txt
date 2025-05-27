@@ -1,1 +1,0 @@
-Design a 4-input AND gate module with four 1-bit input signals a, b, c, d, and one 1-bit output signal y. module_name is "and_gate_4input". input pin: a, b, c, d. output pin: y.
