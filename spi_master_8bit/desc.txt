@@ -1,1 +1,0 @@
-Design an 8-bit SPI master module with inputs: 1-bit clock clk, reset rst, transmit enable spi_en, and 8-bit data din; outputs: 1-bit serial data mosi, clock sclk, and chip select cs. module_name is "spi_master_8bit". input pin: clk, rst, spi_en, din[7:0]. output pin: mosi, sclk, cs.
