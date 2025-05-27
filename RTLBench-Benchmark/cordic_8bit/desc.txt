@@ -1,0 +1,1 @@
+Design an 8-bit CORDIC module with inputs: 1-bit clock clk, reset rst, and 8-bit angle z; outputs: 8-bit sin and cos values. module_name is "cordic_8bit". input pin: clk, rst, z[7:0]. output pin: sin[7:0], cos[7:0].

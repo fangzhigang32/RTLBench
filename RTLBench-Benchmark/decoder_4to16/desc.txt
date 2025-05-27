@@ -1,0 +1,1 @@
+Design a 4:16 decoder module with a 4-bit input signal d and a 16-bit output signal y. module_name is "decoder_4to16". input pin: d[3:0]. output pin: y[15:0].

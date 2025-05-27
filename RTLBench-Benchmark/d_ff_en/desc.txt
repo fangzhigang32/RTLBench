@@ -1,0 +1,1 @@
+Design a synchronous D flip-flop module with a 1-bit enable en, inputs including 1-bit clock clk, reset rst, data d, en, and output 1-bit q. module_name is "d_ff_en". input pin: clk, rst, d, en. output pin: q.
