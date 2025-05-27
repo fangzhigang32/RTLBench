@@ -1,1 +1,0 @@
-Design an 8-bit magnitude comparator module with two 8-bit input signals a and b, and output a 3-bit signal gt, eq, lt, representing a>b, a=b, a<b respectively. module_name is "mag_comparator_8bit". input pin: a[7:0], b[7:0]. output pin: gt, eq, lt.
