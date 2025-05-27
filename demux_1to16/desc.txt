@@ -1,1 +1,0 @@
-Design a 1:16 demultiplexer module with 1-bit input data d, 4-bit select signal sel, and 16-bit output signal y. module_name is "demux_1to16". input pin: d, sel[3:0]. output pin: y[15:0].
