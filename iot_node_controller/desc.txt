@@ -1,1 +1,0 @@
-Design an IoT node controller module with inputs: 1-bit clock clk, reset rst, 1-bit sensor trigger sensor, 1-bit transmit enable tx_en, and outputs: 1-bit data tx, 1-bit sleep signal sleep. When sensor=1, collect and transmit data, then enter sleep mode after completion. module_name is "iot_node_controller". input pin: clk, rst, sensor, tx_en. output pin: tx, sleep.
