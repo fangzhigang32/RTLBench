@@ -8,10 +8,10 @@
 
 This repository consists of two main components:
 
-- [`AutoEval`](./AutoEval)  
+- `AutoEval`
   Automated evaluation framework for analyzing RTL code.
 
-- [`RTLBench-Benchmark`](./RTLBench-Benchmark)  
+- `RTLBench-Benchmark` 
   A comprehensive benchmark suite for assessing code generation capabilities of large language models (LLMs) in RTL design.
 
 ---
@@ -20,7 +20,7 @@ This repository consists of two main components:
 
 The `AutoEval` directory contains two key submodules:
 
-### 1. [`EvalExistBenchmark`](./AutoEval/EvalExistBenchmark)
+### 1. `EvalExistBenchmark`
 
 Evaluate the quality of reference RTL code in existing benchmarks.
 
@@ -29,7 +29,7 @@ Evaluate the quality of reference RTL code in existing benchmarks.
   python verilatorLint.py
   ```
 
-### 2. [`RTLBench`](./AutoEval/RTLBench)
+### 2. `RTLBench`
 
 Use RTLBench-Benchmark to evaluate LLM-generated RTL code.
 
@@ -51,7 +51,7 @@ Use RTLBench-Benchmark to evaluate LLM-generated RTL code.
 
 ## 📦 Dependency Installation
 
-Install project dependencies using the provided `requirements.txt`:
+Install project dependencies using the provided [`requirements.txt`](./AutoEval/requirements.txt):
 
 ```bash
 pip install -r AutoEval/requirements.txt
