@@ -1,0 +1,1 @@
+Design a 16-bit unsigned restoring division module with 16-bit dividend a and divisor b as inputs, and 16-bit quotient q and remainder r as outputs. module_name is "restoring_divider_16bit". input pin: a[15:0], b[15:0]. output pin: q[15:0], r[15:0].

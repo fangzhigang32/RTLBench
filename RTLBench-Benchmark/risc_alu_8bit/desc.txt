@@ -1,0 +1,1 @@
+Design an 8-bit RISC processor ALU module with 8-bit input operands a and b, a 3-bit opcode op, and outputs an 8-bit result y and 4 flags z (zero), n (negative), c (carry), v (overflow). module_name is "risc_alu_8bit". input pin: a[7:0], b[7:0], op[2:0]. output pin: y[7:0], z, n, c, v.

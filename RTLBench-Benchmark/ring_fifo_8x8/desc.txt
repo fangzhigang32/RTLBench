@@ -1,0 +1,1 @@
+Design an 8x8-bit ring FIFO module with inputs: 1-bit clock clk, reset rst, write enable wr, read enable rd, and 8-bit write data din. Outputs: 8-bit read data dout, 1-bit empty flag empty, and full flag full. module_name is "ring_fifo_8x8". input pin: clk, rst, wr, rd, din[7:0]. output pin: dout[7:0], empty, full.
