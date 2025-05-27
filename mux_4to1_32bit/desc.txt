@@ -1,1 +1,0 @@
-Design a 32-bit 4:1 multiplexer module with four 32-bit inputs d0, d1, d2, d3, a 2-bit select signal sel, and a 32-bit output y. module_name is "mux_4to1_32bit". input pin: d0[31:0], d1[31:0], d2[31:0], d3[31:0], sel. output pin: y[31:0].
