@@ -9,9 +9,9 @@ This repository contains two main folders:
 
 ## AutoEval Folder Structure
 
-The [`AutoEval`](./AutoEval) folder includes two subdirectories:
+The `AutoEval` folder includes two subdirectories:
 
-1. **[`EvalExistBenchmark`](./AutoEval/RTLBench-Benchmark)**: Evaluates the quality of reference code in existing benchmarks.
+1. **[`EvalExistBenchmark`](./AutoEval/EvalExistBenchmark)**: Evaluates the quality of reference code in existing benchmarks.
    - To run: Execute `python verilatorLint.py`.
 
 2. **[`RTLBench`](./AutoEval/RTLBench)**: Uses the RTLBench-Benchmark to evaluate LLM-generated code.
