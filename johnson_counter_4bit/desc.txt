@@ -1,1 +1,0 @@
-Design a 4-bit Johnson counter module with a 1-bit clock input clk, reset input rst, and a 4-bit output q. module_name is "johnson_counter_4bit". input pin: clk, rst. output pin: q[3:0].
