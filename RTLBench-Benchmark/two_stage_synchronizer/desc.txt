@@ -1,0 +1,1 @@
+Design a two-stage flip-flop synchronizer module with a 1-bit clock input clk, reset rst, and asynchronous data input d, and a 1-bit synchronized data output q. module_name is "two_stage_synchronizer". input pin: clk, rst, d. output pin: q.
