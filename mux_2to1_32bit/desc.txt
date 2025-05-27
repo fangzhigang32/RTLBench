@@ -1,1 +1,0 @@
-Design a 32-bit 2:1 multiplexer module with two 32-bit input data signals d0 and d1, a 1-bit selection signal sel, and a 32-bit output signal y. module_name is "mux_2to1_32bit". input pin: d0[31:0], d1[31:0], sel. output pin: y[31:0].
