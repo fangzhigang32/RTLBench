@@ -1,5 +1,7 @@
 # RTLBench: A Multi-Dimensional Benchmark Suite for Evaluating LLM-Generated RTL Code
 
+![Evaluation Flow](./LintEval_Overview.png)
+
 ## Repository Overview
 
 This repository contains two main folders:
