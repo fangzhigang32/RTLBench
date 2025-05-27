@@ -1,1 +1,0 @@
-Design a 4-bit unsigned combinational logic multiplier module with two 4-bit input signals a and b, and an 8-bit output result p. module_name is "comb_multiplier_4bit". input pin: a[3:0], b[3:0]. output pin: p[7:0].
