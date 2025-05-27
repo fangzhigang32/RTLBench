@@ -1,1 +1,0 @@
-Design a Mealy-type finite state machine module to detect the sequence "101", with inputs: 1-bit clock clk, reset rst, data in, and output: 1-bit out. module_name is "mealy_fsm_101". input pin: clk, rst, in. output pin: out.
