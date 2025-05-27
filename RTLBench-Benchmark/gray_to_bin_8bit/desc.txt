@@ -1,0 +1,1 @@
+Design an 8-bit Gray code to binary converter module, input 8-bit Gray code g, output 8-bit binary b. module_name is "gray_to_bin_8bit". input pin: g[7:0]. output pin: b[7:0].

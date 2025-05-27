@@ -1,0 +1,1 @@
+Design a half-precision floating-point addition unit module with two 16-bit IEEE754 floating-point inputs a and b, and a 16-bit output s. module_name is "fp_adder_16bit". input pin: a[15:0], b[15:0]. output pin: s[15:0].

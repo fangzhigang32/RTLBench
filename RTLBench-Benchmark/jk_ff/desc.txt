@@ -1,0 +1,1 @@
+Design a synchronous JK flip-flop module with 1-bit clock input clk, reset rst, j, k, and 1-bit output q. module_name is "jk_ff". input pin: clk, rst, j, k. output pin: q.

@@ -1,0 +1,1 @@
+Design a 4-input fixed priority arbiter module with a 4-bit request input req and a 4-bit grant output gnt. module_name is "fixed_priority_arbiter_4". input pin: req[3:0]. output pin: gnt[3:0].
