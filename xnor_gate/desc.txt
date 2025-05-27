@@ -1,1 +1,0 @@
-Design a 2-input XNOR gate module with two 1-bit input signals a and b, and a 1-bit output signal y. module_name is "xnor_gate". input pin: a, b. output pin: y.
