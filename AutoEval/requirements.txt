@@ -1,4 +1,0 @@
-langchain==0.3.25
-langchain_core==0.3.61
-pandas==2.2.3
-python-dotenv==1.1.0
