@@ -1,1 +1,0 @@
-Design an 8-bit UART transmitter module with input pins: 1-bit clock clk, reset rst, transmit enable tx_en, 8-bit data din, and output pin: 1-bit serial data tx. module_name is "uart_tx_8bit". input pin: clk, rst, tx_en, din[7:0]. output pin: tx.
