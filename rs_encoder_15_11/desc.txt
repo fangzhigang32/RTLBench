@@ -1,1 +1,0 @@
-Design an RS(15,11) Reed-Solomon encoder module with 11-bit input data d and 15-bit RS code output c. module_name is "rs_encoder_15_11". input pin: d[10:0]. output pin: c[14:0].
