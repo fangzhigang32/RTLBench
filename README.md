@@ -11,11 +11,11 @@ This repository contains two main folders:
 
 The [`AutoEval`](./AutoEval) folder includes two subdirectories:
 
-1. **[`EvalExistBenchmark`](./RTLBench-Benchmark)**: Evaluates the quality of reference code in existing benchmarks.
+1. **[`EvalExistBenchmark`](./AutoEval/RTLBench-Benchmark)**: Evaluates the quality of reference code in existing benchmarks.
    - To run: Execute `python verilatorLint.py`.
 
-2. **[`RTLBench`]**: Uses the RTLBench-Benchmark to evaluate LLM-generated code.
-   - Configuration: Set `API_KEY` and `BaseURL` in `[`RTLBench/api.txt`](./AutoEval/RTLBench/api.txt)`.
+2. **[`RTLBench`](./AutoEval/RTLBench)**: Uses the RTLBench-Benchmark to evaluate LLM-generated code.
+   - Configuration: Set `API_KEY` and `BaseURL` in [`RTLBench/api.txt`](./AutoEval/RTLBench/api.txt).
    - To run: Execute `python main.py`.
 
 ## Python Version
