@@ -1,1 +1,0 @@
-Design an 8-bit cross-clock domain data transfer module with input pins: write clock wclk, read clock rclk, reset rst, 8-bit write data din[7:0], write enable wr; output pins: 8-bit read data dout[7:0], read valid rd_valid. module_name is "cdc_data_transfer_8bit".
