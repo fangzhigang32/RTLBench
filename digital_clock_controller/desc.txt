@@ -1,1 +1,0 @@
-Design a digital clock controller module with inputs: 1-bit clock clk, reset rst, 1-bit set signal set, 2-bit adjustment signal adj (adjust hour/minute), and outputs: 8-bit hour hour, minute minute (BCD). Implement a 24-hour format, adjust time when set=1. module_name is "digital_clock_controller". input pin: clk, rst, set, adj[1:0]. output pin: hour[7:0], minute[7:0].
