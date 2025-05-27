@@ -1,1 +1,0 @@
-Design an 8-bit GPIO module with inputs: 1-bit clock clk, reset rst, 8-bit direction control dir, 8-bit data din, and output: 8-bit data dout, connected to 8-bit io pins. module_name is "gpio_8bit". input pin: clk, rst, dir[7:0], din[7:0]. output pin: dout[7:0]. inout: io[7:0].
