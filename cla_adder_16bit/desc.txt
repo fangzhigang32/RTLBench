@@ -1,1 +1,0 @@
-Design a 16-bit carry lookahead adder module, with inputs of two 16-bit signals a and b and a 1-bit carry input cin, and outputs of a 16-bit sum s and a 1-bit carry output cout. module_name is "cla_adder_16bit". input pin: a[15:0], b[15:0], cin. output pin: s[15:0], cout.
