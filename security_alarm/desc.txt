@@ -1,1 +1,0 @@
-Design a security alarm system module with 1-bit clock input clk, reset rst, 1-bit sensor signal sensor, 1-bit disarm signal disarm, and 1-bit alarm output alarm. The alarm is triggered when sensor=1 unless disarm=1. module_name is "security_alarm". input pin: clk, rst, sensor, disarm. output pin: alarm.
