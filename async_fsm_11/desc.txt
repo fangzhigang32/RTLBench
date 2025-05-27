@@ -1,1 +1,0 @@
-Design an asynchronous state machine module to detect the sequence "11", with a 1-bit input 'in' and a 1-bit output 'out'. module_name is "async_fsm_11". input pin: in. output pin: out.
