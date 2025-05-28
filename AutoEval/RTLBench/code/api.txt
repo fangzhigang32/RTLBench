@@ -1,0 +1,41 @@
+### Chat Model ###
+
+# set API key
+chat_api_key=
+
+# set base url
+chat_api_base=
+
+# set model provider
+chat_model_provider=
+
+# set model name
+chat_model_name=
+
+# set temperature
+chat_temperature=0
+
+# set max tokens
+chat_max_tokens=10000
+
+
+### Judge Model ###
+
+# set API key
+judge_api_key=
+
+# set base url
+judge_api_base=
+
+# set model provider
+judge_model_provider=
+
+# set model name
+judge_model_name=
+
+# set temperature
+judge_temperature=0
+
+# set max tokens
+judge_max_tokens=10000
+
