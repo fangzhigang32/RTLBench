@@ -1,0 +1,1 @@
+Design a module to calculate the difference between two numbers. The inputs are 1-bit clock clk, reset rst, two 8-bit unsigned numbers a and b, and the output is the difference c. If a > b, output a - b; if a ≤ b, output b - a. module_name is "data_minus". input pin: clk, rst, a[7:0], b[7:0]. output pin: c[7:0].

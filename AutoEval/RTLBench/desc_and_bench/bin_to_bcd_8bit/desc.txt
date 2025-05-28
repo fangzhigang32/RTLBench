@@ -1,0 +1,1 @@
+Design an 8-bit binary to BCD converter module, with an 8-bit binary input b and a 12-bit BCD output d (3x4-bit BCD). module_name is "bin_to_bcd_8bit". input pin: b[7:0]. output pin: d[11:0].
