@@ -1,0 +1,1 @@
+Design a NOT gate module with a 1-bit input signal a and a 1-bit output signal y. module_name is "not_gate". input pin: a. output pin: y.

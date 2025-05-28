@@ -1,0 +1,1 @@
+Design a sequence generator module to cyclically output the sequence 001011, with a 1-bit clock input clk, reset input rst, and output data. module_name is "sequence_generator". input pin: clk, rst. output pin: data[5:0].
