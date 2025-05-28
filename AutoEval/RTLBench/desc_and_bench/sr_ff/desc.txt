@@ -1,0 +1,1 @@
+Design a synchronous SR flip-flop module with 1-bit clock input clk, reset rst, s, r, and 1-bit output q. module_name is "sr_ff". input pin: clk, rst, s, r. output pin: q.

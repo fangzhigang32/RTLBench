@@ -1,0 +1,1 @@
+Design a washing machine controller module with inputs: 1-bit clock clk, reset rst, 1-bit start signal start, 2-bit mode signal mode, and outputs: 1-bit wash, rinse, spin. Supports three modes (quick, standard, strong). module_name is "washing_machine_controller". input pin: clk, rst, start, mode[1:0]. output pin: wash, rinse, spin.
