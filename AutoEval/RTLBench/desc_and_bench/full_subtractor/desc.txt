@@ -1,0 +1,1 @@
+Design a full subtractor module with three 1-bit inputs a, b, bin, and outputs 1-bit difference d and borrow bout. module_name is "full_subtractor". input pin: a, b, bin. output pin: d, bout.

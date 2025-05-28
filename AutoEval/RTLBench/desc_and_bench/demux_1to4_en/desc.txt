@@ -1,0 +1,1 @@
+Design a 1:4 demultiplexer module with a 1-bit enable signal. module_name is "demux_1to4_en". input pin: d, sel[1:0], en. output pin: y[3:0].

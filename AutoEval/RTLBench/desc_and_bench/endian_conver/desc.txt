@@ -1,0 +1,1 @@
+Design a data endianness conversion module with inputs: 1-bit clock clk, reset rst, two 4-bit unsigned numbers a and b, and outputs the converted data c and d. module_name is "endian_conver". input pin: clk, rst, a[3:0], b[3:0]. output pin: c[3:0], d[3:0].

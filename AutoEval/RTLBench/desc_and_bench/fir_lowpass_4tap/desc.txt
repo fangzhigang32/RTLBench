@@ -1,0 +1,1 @@
+Design a 4th-order low-pass FIR filter module with a 1-bit clock input clk, reset rst, 8-bit input x, and 8-bit output y. module_name is "fir_lowpass_4tap". input pin: clk, rst, x[7:0]. output pin: y[7:0].

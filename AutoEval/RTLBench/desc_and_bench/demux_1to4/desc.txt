@@ -1,0 +1,1 @@
+Design a 1:4 demultiplexer module with 1-bit input data d, 2-bit select signal sel, and 4-bit output signal y. module_name is "demux_1to4". input pin: d, sel[1:0]. output pin: y[3:0].
