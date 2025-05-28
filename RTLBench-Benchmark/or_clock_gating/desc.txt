@@ -1,1 +1,0 @@
-Design an OR gate clock gating module with a 1-bit clock input clk, enable input en, and a 1-bit gated clock output gclk, implemented using an OR gate. module_name is "or_clock_gating". input pin: clk, en. output pin: gclk.

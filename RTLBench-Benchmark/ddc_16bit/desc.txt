@@ -1,1 +1,0 @@
-Design a 16-bit digital down-converter module with inputs: 1-bit clock clk, reset rst, 16-bit input signal x, and outputs: 16-bit I and Q components. module_name is "ddc_16bit". input pin: clk, rst, x[15:0]. output pin: i[15:0], q[15:0].

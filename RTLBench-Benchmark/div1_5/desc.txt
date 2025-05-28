@@ -1,1 +1,0 @@
-Design a 1.5 frequency divider module with a 1-bit clock input clk, reset rst, and a 1-bit output divided clock clk_out. module_name is "div1_5". input pin: clk, rst. output pin: clk_out.

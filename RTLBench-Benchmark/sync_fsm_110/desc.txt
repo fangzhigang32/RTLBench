@@ -1,1 +1,0 @@
-Design a synchronous Moore-type state machine module to detect the sequence "110", with 1-bit input clk, rst, in, and 1-bit output out. module_name is "sync_fsm_110". input pin: clk, rst, in. output pin: out.

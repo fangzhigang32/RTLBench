@@ -1,1 +1,0 @@
-Design a 4-bit Gray code counter module with a 1-bit clock input clk, reset rst, enable en, and a 4-bit output q. module_name is "gray_counter_4bit". input pin: clk, rst, en. output pin: q[3:0].

@@ -1,1 +1,0 @@
-Design a module to calculate the least common multiple of two numbers. Inputs: 1-bit clock clk, reset rst, 8-bit unsigned numbers a and b. Output: least common multiple lcm_out. module_name is "lcm_8bit". input pin: a[7:0], b[7:0]. output pin: lcm_out[15:0].

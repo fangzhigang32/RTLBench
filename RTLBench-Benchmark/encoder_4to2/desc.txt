@@ -1,1 +1,0 @@
-Design a 4:2 priority encoder module with a 4-bit input signal d, and outputs a 2-bit code y and a 1-bit valid signal v. module_name is "encoder_4to2". input pin: d[3:0]. output pin: y[1:0], v.

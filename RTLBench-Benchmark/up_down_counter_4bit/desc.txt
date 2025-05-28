@@ -1,1 +1,0 @@
-Design a 4-bit up/down counter module with input pins: 1-bit clock clk, reset rst, enable en, up/down control up_down, and output 4-bit q. module_name is "up_down_counter_4bit". input pin: clk, rst, en, up_down. output pin: q[3:0].

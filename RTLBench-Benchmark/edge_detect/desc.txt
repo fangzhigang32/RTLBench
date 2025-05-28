@@ -1,1 +1,0 @@
-Design an edge detection module with a 1-bit clock input clk, reset rst, and 1-bit signal a. The output rise=1 when a rising edge is detected, down=1 when a falling edge is detected, and 0 at all other times. module_name is "edge_detect". input pin: clk, rst, a. output pin: rise, down.

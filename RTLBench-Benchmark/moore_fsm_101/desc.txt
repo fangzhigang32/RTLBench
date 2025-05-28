@@ -1,1 +1,0 @@
-Design a Moore-type finite state machine module to detect the sequence "101", with 1-bit clock input clk, reset rst, data input in, and 1-bit output out. module_name is "moore_fsm_101". input pin: clk, rst, in. output pin: out.

@@ -1,1 +1,0 @@
-Design a 16-bit ring counter module with a 1-bit clock input clk, reset input rst, and a 16-bit output q. module_name is "ring_counter_16bit". input pin: clk, rst. output pin: q[15:0].

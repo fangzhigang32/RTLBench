@@ -1,1 +1,0 @@
-Design an 8-bit I2C master module with input pins: 1-bit clock clk, reset rst, start signal start, 8-bit data din, and output pins: serial data sda and clock scl. module_name is "i2c_master_8bit". input pin: clk, rst, start, din[7:0]. output pin: sda, scl.

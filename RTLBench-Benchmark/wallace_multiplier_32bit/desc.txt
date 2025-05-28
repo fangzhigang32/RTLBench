@@ -1,1 +1,0 @@
-Design a 32-bit unsigned Wallace tree multiplier module with two 32-bit input signals a and b, and a 64-bit product output p. module_name is "wallace_multiplier_32bit". input pin: a[31:0], b[31:0]. output pin: p[63:0].

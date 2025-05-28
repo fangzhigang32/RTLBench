@@ -1,1 +1,0 @@
-Design a SHA-256 hash module with input pins: 1-bit clock clk, reset rst, start signal start, 512-bit input data d; output pins: 256-bit hash value h and completion signal done. module_name is "sha256". input pin: clk, rst, start, d[511:0]. output pin: h[255:0], done.

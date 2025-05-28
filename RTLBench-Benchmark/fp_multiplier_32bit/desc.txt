@@ -1,1 +1,0 @@
-Design a single-precision floating-point multiplier module that takes two 32-bit IEEE 754 floating-point numbers a and b as input and outputs a 32-bit result p. module_name is "fp_multiplier_32bit". input pin: a[31:0], b[31:0]. output pin: p[31:0].

@@ -1,1 +1,0 @@
-Design a double-precision floating-point addition unit module, input two 64-bit IEEE754 floating-point numbers a and b, output 64-bit result s. module_name is "fp_adder_64bit". input pin: a[63:0], b[63:0]. output pin: s[63:0].

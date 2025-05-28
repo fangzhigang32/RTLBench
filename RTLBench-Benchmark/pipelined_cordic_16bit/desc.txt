@@ -1,1 +1,0 @@
-Design a 16-bit pipelined CORDIC module with inputs: 1-bit clock clk, reset rst, 16-bit angle z, and outputs: 16-bit sin and cos values. module_name is "pipelined_cordic_16bit". input pin: clk, rst, z[15:0]. output pin: sin[15:0], cos[15:0].

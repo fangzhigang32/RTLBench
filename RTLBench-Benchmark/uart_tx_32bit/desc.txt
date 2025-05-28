@@ -1,1 +1,0 @@
-Design a 32-bit UART transmitter module with inputs: 1-bit clock clk, reset rst, transmit enable tx_en, 32-bit data din, and output: 1-bit serial data tx. module_name is "uart_tx_32bit". input pin: clk, rst, tx_en, din[31:0]. output pin: tx.

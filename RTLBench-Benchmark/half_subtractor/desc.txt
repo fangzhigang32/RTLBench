@@ -1,1 +1,0 @@
-Design a half subtractor module with two 1-bit inputs a and b, and outputs the 1-bit difference d and borrow bout. module_name is "half_subtractor". input pin: a, b. output pin: d, bout

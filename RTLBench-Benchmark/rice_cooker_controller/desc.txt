@@ -1,1 +1,0 @@
-Design a smart rice cooker controller module with inputs: 1-bit clock clk, reset rst, 2-bit mode (cook, keep warm, porridge), 1-bit start signal start; outputs: 1-bit heater, 1-bit keep_warm, 1-bit done signal. module_name is "rice_cooker_controller". input pin: clk, rst, mode[1:0], start. output pin: heater, keep_warm, done.

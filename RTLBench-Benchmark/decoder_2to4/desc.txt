@@ -1,1 +1,0 @@
-Design a 2:4 decoder module with a 2-bit input signal d and a 4-bit output signal y. module_name is "decoder_2to4". input pin: d[1:0]. output pin: y[3:0].

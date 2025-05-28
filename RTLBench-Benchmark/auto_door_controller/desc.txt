@@ -1,1 +1,0 @@
-Design an automatic door controller module with a 1-bit clock input clk, reset rst, 1-bit sensor signal sensor, and outputs a 1-bit open signal open and a 1-bit close signal close. When sensor=1, the door opens for 5s and then closes. module_name is "auto_door_controller". input pin: clk, rst, sensor. output pin: open, close.

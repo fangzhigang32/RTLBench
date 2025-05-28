@@ -1,1 +1,0 @@
-Design a 32-bit SPI master module with inputs: 1-bit clock clk, reset rst, transmit enable spi_en, 32-bit data din, and outputs: 1-bit serial data mosi, clock sclk, chip select cs. module_name is "spi_master_32bit". input pin: clk, rst, spi_en, din[31:0]. output pin: mosi, sclk, cs.

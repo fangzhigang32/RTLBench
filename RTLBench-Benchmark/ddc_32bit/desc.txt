@@ -1,1 +1,0 @@
-Design a 32-bit digital down-converter module with inputs: 1 clock signal clk, reset rst, 32-bit input signal x, and outputs: 32-bit I and Q components. module_name is "ddc_32bit". input pin: clk, rst, x[31:0]. output pin: i[31:0], q[31:0].

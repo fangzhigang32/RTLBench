@@ -1,1 +1,0 @@
-Design a 12-bit Hamming code encoder module with an 8-bit input data d and a 12-bit Hamming code output c. module_name is "hamming_encoder_12bit". input pin: d[7:0]. output pin: c[11:0].

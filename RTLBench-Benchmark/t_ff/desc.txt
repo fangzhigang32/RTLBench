@@ -1,1 +1,0 @@
-Design a synchronous T flip-flop module with 1-bit clock input clk, reset rst, and t, and 1-bit output q. module_name is "t_ff". input pin: clk, rst, t. output pin: q.

@@ -1,1 +1,0 @@
-Design a 16-bit watchdog timer module with a 1-bit clock input clk, reset rst, enable en, and a 1-bit timeout flag output. module_name is "watchdog_16bit". input pin: clk, rst, en. output pin: timeout.

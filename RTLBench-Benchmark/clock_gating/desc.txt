@@ -1,1 +1,0 @@
-Design a clock gating module with a 1-bit clock input clk, enable input en, and a 1-bit gated clock output gclk. module_name is "clock_gating". input pin: clk, en. output pin: gclk.

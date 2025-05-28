@@ -1,1 +1,0 @@
-Design a decimal to BCD encoder module with a 4-bit decimal input d (0-9) and a 4-bit BCD output y. module_name is "dec_to_bcd". input pin: d[3:0]. output pin: y[3:0].

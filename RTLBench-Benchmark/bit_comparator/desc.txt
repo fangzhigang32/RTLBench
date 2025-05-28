@@ -1,1 +1,0 @@
-Design a 1-bit comparator module with two 1-bit input signals a and b, and output a 3-bit signal gt, eq, lt, representing a>b, a=b, a<b respectively. module_name is "bit_comparator". input pin: a, b. output pin: gt, eq, lt.

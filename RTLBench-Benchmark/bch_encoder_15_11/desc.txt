@@ -1,1 +1,0 @@
-Design a BCH(15,11) encoder module with an 11-bit input data d and a 15-bit BCH code output c. module_name is "bch_encoder_15_11". input pin: d[10:0]. output pin: c[14:0].

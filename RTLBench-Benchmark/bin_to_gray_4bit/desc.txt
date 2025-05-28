@@ -1,1 +1,0 @@
-Design a 4-bit binary to Gray code converter module with input 4-bit binary number b and output 4-bit Gray code g. module_name is "bin_to_gray_4bit". input pin: b[3:0]. output pin: g[3:0].

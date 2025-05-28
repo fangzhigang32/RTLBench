@@ -1,1 +1,0 @@
-Design a 4-bit Gray code cross-clock domain synchronizer module with input source clock sclk, destination clock dclk, reset rst, 4-bit Gray code input gin, and output 4-bit synchronized Gray code gout. module_name is "gray_code_synchronizer_4bit". input pin: sclk, dclk, rst, gin[3:0]. output pin: gout[3:0].

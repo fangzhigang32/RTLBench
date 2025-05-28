@@ -1,1 +1,0 @@
-Design a 4:1 multiplexer module with four 1-bit inputs d0, d1, d2, d3, a 2-bit select signal sel, and a 1-bit output y. module_name is "mux_4to1". input pin: d0, d1, d2, d3, sel[1:0]. output pin: y.
