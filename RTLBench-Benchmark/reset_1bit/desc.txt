@@ -1,0 +1,1 @@
+Design a single-bit synchronous reset module with a 1-bit clock input clk, asynchronous reset rst, data input d, and 1-bit output q. module_name is "reset_1bit". input pin: clk, rst, d. output pin: q.

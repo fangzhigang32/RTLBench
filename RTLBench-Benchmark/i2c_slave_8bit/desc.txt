@@ -1,0 +1,1 @@
+Design an 8-bit I2C slave module with input pins: 1-bit clock clk, reset rst, serial data sda, and clock scl; output pin: 8-bit data dout. module_name is "i2c_slave_8bit". input pin: clk, rst, sda, scl. output pin: dout[7:0].

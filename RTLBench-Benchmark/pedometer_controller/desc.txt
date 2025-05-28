@@ -1,0 +1,1 @@
+Design a step counter controller module with a 1-bit clock input clk, reset rst, 1-bit step sensor step, and outputs a 16-bit step count count and a 1-bit goal achievement signal goal. The daily goal is 10000 steps. Count when step=1, and goal=1 indicates the goal is achieved. module_name is "pedometer_controller". input pin: clk, rst, step. output pin: count[15:0], goal.

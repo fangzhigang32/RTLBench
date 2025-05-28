@@ -1,0 +1,1 @@
+Design an 8-bit parity checker module with an 8-bit input d and a 1-bit odd parity output p. module_name is "parity_checker_8bit". input pin:d[7:0]. output pin:p.

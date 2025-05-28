@@ -1,0 +1,1 @@
+Design an 8x8-bit ROM module with a 3-bit address input 'addr' and an 8-bit data output 'dout'. module_name is "rom_8x8". input pin: addr[2:0]. output pin: dout[7:0].
