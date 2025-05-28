@@ -34,7 +34,7 @@ Evaluate the quality of reference RTL code in existing benchmarks.
 Use RTLBench-Benchmark to evaluate LLM-generated RTL code.
 
 - **Configuration**:  
-  Edit [`api.txt`](./AutoEval/RTLBench/api.txt) to set your `API_KEY` and `BaseURL`.
+  Edit [`api.txt`](./AutoEval/RTLBench/code/api.txt) to set your `API_KEY` and `BaseURL`.
 
 - **Run Command**:
   ```bash
