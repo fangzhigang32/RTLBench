@@ -1,0 +1,1 @@
+Design an 8x8-bit asynchronous FIFO module with input pins: write clock wclk, read clock rclk, reset rst, write enable wr, read enable rd, and 8-bit write data din. Output pins: 8-bit read data dout, empty flag empty, and full flag full. module_name is "async_fifo_8x8". input pin: wclk, rclk, rst, wr, rd, din[7:0]. output pin: dout[7:0], empty, full.

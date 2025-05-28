@@ -1,0 +1,1 @@
+Design a 4-bit BCD to 7-segment display converter module, with a 4-bit BCD input d and a 7-bit 7-segment display output seg (a-g). The corresponding segment lights up when the signal is low. module_name is "bcd_to_7seg". input pin: d[3:0]. output pin: seg[6:0].
