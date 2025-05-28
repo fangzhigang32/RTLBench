@@ -40,7 +40,10 @@ Use RTLBench-Benchmark to evaluate LLM-generated RTL code.
   ```bash
   python main.py
   ```
-
+- **Experimental Results**:
+  The experimental results will be stored in the `experiment/model_name/log` folder.
+  - `summary_report.txt` file stores the results of the first evaluation.
+  - `re_summary_report.txt` file stores the results of Log2BetterRTL post-optimization evaluation.
 ---
 
 ## 🐍 Python Environment
