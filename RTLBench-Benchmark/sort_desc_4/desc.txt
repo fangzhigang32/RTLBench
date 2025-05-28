@@ -1,0 +1,1 @@
+Design a 4-input descending order sorting module with input signals a, b, c, d (4-bit each), and output sorted signals ra, rb, rc, rd. module_name is "sort_desc_4". input pin: a[3:0], b[3:0], c[3:0], d[3:0]. output pin: ra[3:0], rb[3:0], rc[3:0], rd[3:0].

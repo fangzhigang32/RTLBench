@@ -1,0 +1,1 @@
+Design a triple modular redundancy (TMR) voter module with three 8-bit input signals a, b, c, and an 8-bit output y along with a 1-bit error flag err. y is the majority voting result of a, b, c, and err=1 indicates inconsistency among the three. module_name is "tmr_voter_8bit". input pin: a[7:0], b[7:0], c[7:0]. output pin: y[7:0], err.

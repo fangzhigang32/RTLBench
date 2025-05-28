@@ -1,0 +1,1 @@
+Design an 8-bit unsigned divider module with 8-bit dividend a and divisor b as inputs, and 8-bit quotient q and remainder r as outputs. module_name is "unsigned_divider_8bit". input pin: a[7:0], b[7:0]. output pin: q[7:0], r[7:0].
