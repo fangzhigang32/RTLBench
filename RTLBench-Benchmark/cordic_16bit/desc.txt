@@ -1,0 +1,1 @@
+Design a 16-bit CORDIC module with inputs: 1-bit clock clk, reset rst, and 16-bit angle z; outputs: 16-bit sin and cos values. module_name is "cordic_16bit". input pin: clk, rst, z[15:0]. output pin: sin[15:0], cos[15:0].

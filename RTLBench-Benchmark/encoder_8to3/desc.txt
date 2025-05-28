@@ -1,0 +1,1 @@
+Design an 8:3 priority encoder module with an 8-bit input signal d, and outputs a 3-bit code y and a 1-bit valid signal v. module_name is "encoder_8to3". input pin: d[7:0]. output pin: y[2:0], v.

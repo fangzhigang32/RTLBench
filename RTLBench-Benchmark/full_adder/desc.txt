@@ -1,0 +1,1 @@
+Design a full adder module with three 1-bit inputs a, b, cin, and outputs 1-bit sum s and carry cout. module_name is "full_adder". input pin: a, b, cin. output pin: s, cout.

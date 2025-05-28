@@ -1,0 +1,1 @@
+Design a single-bit GPIO module with a 1-bit clock input clk, reset rst, direction control dir, data input din, and a 1-bit data output dout connected to the io pin. module_name is "gpio_1bit". input pin: clk, rst, dir, din. output pin: dout. inout: io.

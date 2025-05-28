@@ -1,0 +1,1 @@
+Design an 8-bit CRC-8 checksum module with input pins: 1-bit clock clk, reset rst, enable en, and 8-bit data d; output pin: 8-bit CRC code c. module_name is "crc8". input pin: clk, rst, en, d[7:0]. output pin: c[7:0].

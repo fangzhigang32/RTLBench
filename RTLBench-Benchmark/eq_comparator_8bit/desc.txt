@@ -1,0 +1,1 @@
+Design an 8-bit equality comparator module with two 8-bit input signals a and b, and a 1-bit output signal eq. module_name is "eq_comparator_8bit". input pin: a[7:0], b[7:0]. output pin: eq.

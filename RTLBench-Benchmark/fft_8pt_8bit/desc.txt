@@ -1,0 +1,1 @@
+Design an 8-point 8-bit FFT module with inputs: 1-bit clock clk, reset rst, 8-bit real input x_re, imaginary input x_im, and outputs: 8-bit real output y_re, imaginary output y_im. module_name is "fft_8pt_8bit". input pin: clk, rst, x_re[7:0], x_im[7:0]. output pin: y_re[7:0], y_im[7:0].

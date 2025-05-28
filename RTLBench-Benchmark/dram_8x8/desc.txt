@@ -1,0 +1,1 @@
+Design an 8x8-bit synchronous DRAM module with input pins: 1-bit clock clk, write enable we, read enable re, 3-bit address addr, 8-bit write data din, and output pin: 8-bit read data dout. module_name is "dram_8x8". input pin: clk, we, re, addr[2:0], din[7:0]. output pin: dout[7:0].
