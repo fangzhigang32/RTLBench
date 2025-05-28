@@ -31,7 +31,7 @@ judge_api_base=
 judge_model_provider=
 
 # set model name
-judge_model_name=
+judge_model_name=o1-mini
 
 # set temperature
 judge_temperature=0
