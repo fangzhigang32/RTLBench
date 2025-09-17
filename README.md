@@ -111,3 +111,27 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 | AI Accelerators             | Modules for CNN acceleration.                |     1 |
 
 </details>
+
+
+<table style="width:100%;">
+  <thead>
+    <tr>
+      <th style="text-align:left;">CATEGORY</th>
+      <th style="text-align:left;">DESCRIPTION</th>
+      <th style="text-align:center;">COUNT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Logic Gates</td>
+      <td>Basic digital logic gates including AND, OR, NOT, etc.</td>
+      <td style="text-align:center;">8</td>
+    </tr>
+    <tr>
+      <td>Multiplexers</td>
+      <td>Select one of many inputs and forward it to the output.</td>
+      <td style="text-align:center;">4</td>
+    </tr>
+    <!-- 其余行继续 -->
+  </tbody>
+</table>
