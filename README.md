@@ -76,7 +76,7 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 
 | CATEGORY                    | DESCRIPTION                                 | COUNT |   Module Name|
 |-----------------------------|----------------------------------------------|------:|------|
-| Logic Gates      | Basic digital logic gates including AND, OR, NOT, etc.|     8 | and--gate--4input, and--gate--32bit, or--gate, or--gate--32bit, not--gate, nor--gate, xor--gate, xnor--gate |
+| Logic Gates      | Basic digital logic gates including AND, OR, NOT, etc.|     8 | and_gate_4input, and_gate_32bit, or_gate, or_gate_32bit, not_gate, nor_gate, xor_gate, xnor_gate |
 | Multiplexers     | Select one of many inputs and forward it to the output.|     4 |
 | Demultiplexers   | Route input to one of many outputs.                   |     4 |
 | Encoders         | Convert input lines into binary codes.                |     5 |
