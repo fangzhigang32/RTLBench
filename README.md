@@ -74,9 +74,9 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 
 > GitHub 不支持自定义 CSS，本表采用纯 Markdown + `<details>` 折叠：默认显示前 6 行，其余条目点击展开查看。
 
-| CATEGORY         | DESCRIPTION                                           | COUNT |
-|-----------------------------|----------------------------------------------|------:|
-| Logic Gates      | Basic digital logic gates including AND, OR, NOT, etc. Basic digital logic gates including AND, OR, NOT, etc.Basic digital logic gates including AND, OR, NOT, etc.Basic digital logic gates including AND, OR, NOT, etc.|     8 |
+| CATEGORY                    | DESCRIPTION                                 | COUNT |   Module Name|
+|-----------------------------|----------------------------------------------|------:|------|
+| Logic Gates      | Basic digital logic gates including AND, OR, NOT, etc.|     8 | and--gate--4input, and--gate--32bit, or--gate, or--gate--32bit, not--gate, nor--gate, xor--gate, xnor--gate |
 | Multiplexers     | Select one of many inputs and forward it to the output.|     4 |
 | Demultiplexers   | Route input to one of many outputs.                   |     4 |
 | Encoders         | Convert input lines into binary codes.                |     5 |
