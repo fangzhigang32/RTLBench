@@ -112,3 +112,24 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 
 </details>
 
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color:#4CAF50; color:white;">
+      <th style="padding:8px; text-align:left;">CATEGORY</th>
+      <th style="padding:8px; text-align:left;">DESCRIPTION</th>
+      <th style="padding:8px; text-align:center;">COUNT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f2f2f2;">
+      <td>Logic Gates</td>
+      <td>Basic digital logic gates including AND, OR, NOT, etc.</td>
+      <td style="text-align:center;">8</td>
+    </tr>
+    <tr>
+      <td>Multiplexers</td>
+      <td>Select one of many inputs and forward it to the output.</td>
+      <td style="text-align:center;">4</td>
+    </tr>
+  </tbody>
+</table>
