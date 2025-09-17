@@ -75,7 +75,7 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 > GitHub 不支持自定义 CSS，本表采用纯 Markdown + `<details>` 折叠：默认显示前 6 行，其余条目点击展开查看。
 
 | CATEGORY         | DESCRIPTION                                           | COUNT |
-|------------------|-------------------------------------------------------|------:|
+|------------------|-------------------------------------------------------|:-----:|
 | Logic Gates| Basic digital logic gates including AND, OR, NOT, etc.|     8 |
 | Multiplexers     | Select one of many inputs and forward it to the output.|     4 |
 | Demultiplexers   | Route input to one of many outputs.                   |     4 |
