@@ -76,7 +76,7 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 
 | CATEGORY         | DESCRIPTION                                           | COUNT |
 |------------------|-------------------------------------------------------|------:|
-| Logic Gates<a herf />      | Basic digital logic gates including AND, OR, NOT, etc.|     8 |
+| Logic Gates<a herf="www.baidu.com" />      | Basic digital logic gates including AND, OR, NOT, etc.|     8 |
 | Multiplexers     | Select one of many inputs and forward it to the output.|     4 |
 | Demultiplexers   | Route input to one of many outputs.                   |     4 |
 | Encoders         | Convert input lines into binary codes.                |     5 |
