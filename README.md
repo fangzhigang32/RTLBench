@@ -70,22 +70,28 @@ Feel free to open issues or submit pull requests to improve the benchmark suite 
 
 
 ----
-<!-- 这里开始是可滚动表格 -->
-<div style="max-height: 200px; overflow: auto; margin-bottom: 20px;">
-  
-| 姓名 | 年龄 | 职业 | 城市 | 薪资 | 入职日期 | 邮箱 |
-|------|------|------|------|------|----------|------|
-| 张三 | 28 | 软件工程师 | 北京 | ￥15,000 | 2020-03-15 | zhangsan@example.com |
-| 李四 | 35 | 产品经理 | 上海 | ￥20,000 | 2018-06-20 | lisi@example.com |
-| 王五 | 42 | 销售总监 | 广州 | ￥25,000 | 2015-11-03 | wangwu@example.com |
-| 赵六 | 26 | UI设计师 | 深圳 | ￥12,000 | 2021-09-12 | zhaoliu@example.com |
-| 钱七 | 31 | 数据分析师 | 杭州 | ￥18,000 | 2019-04-25 | qianqi@example.com |
-| 孙八 | 29 | 前端开发 | 南京 | ￥16,000 | 2020-08-17 | sunba@example.com |
-| 周九 | 38 | 后端开发 | 成都 | ￥19,000 | 2017-02-14 | zhoujiu@example.com |
-| 吴十 | 33 | 运维工程师 | 武汉 | ￥17,000 | 2018-12-30 | wushi@example.com |
-| 郑十一 | 27 | 测试工程师 | 西安 | ￥13,000 | 2021-01-22 | zhengshiyi@example.com |
-| 王十二 | 36 | 技术经理 | 苏州 | ￥23,000 | 2016-07-08 | wangshier@example.com |
-| 刘十三 | 30 | 市场营销 | 天津 | ￥14,000 | 2019-11-11 | liushisan@example.com |
-| 陈十四 | 39 | 人力资源 | 重庆 | ￥16,500 | 2015-05-19 | chenshisi@example.com |
-
+<div style="max-height: 250px; overflow: auto; margin: 20px 0; border: 1px solid #e1e4e8; border-radius: 6px;">
+<table style="width: 100%; border-collapse: collapse;">
+<thead style="position: sticky; top: 0; background: #f6f8fa; z-index: 1;">
+<tr>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #e1e4e8;">姓名</th>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #e1e4e8;">年龄</th>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #e1e4e8;">职业</th>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #e1e4e8;">城市</th>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #e1e4e8;">薪资</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">张三</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">28</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">软件工程师</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">北京</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥15,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">李四</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">35</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">产品经理</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">上海</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥20,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">王五</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">42</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">销售总监</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">广州</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥25,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">赵六</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">26</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">UI设计师</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">深圳</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥12,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">钱七</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">31</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">数据分析师</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">杭州</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥18,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">孙八</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">29</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">前端开发</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">南京</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥16,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">周九</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">38</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">后端开发</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">成都</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥19,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">吴十</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">33</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">运维工程师</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">武汉</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥17,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">郑十一</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">27</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">测试工程师</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">西安</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥13,000</td></tr>
+<tr><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">王十二</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">36</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">技术经理</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">苏州</td><td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">￥23,000</td></tr>
+</tbody>
+</table>
 </div>
