@@ -1,5 +1,7 @@
 # RTLBench: A Multi-Dimensional Benchmark Suite for Evaluating LLM-Generated RTL Code
 
+[![Paper](https://img.shields.io/badge/ICCD%2725-Paper-blue)]()
+
 ![Evaluation Flow](./LintEval_Overview.png)
 
 ---
